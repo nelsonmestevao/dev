@@ -39,7 +39,7 @@ topics:
   - name: Python
     web_url: https://github.com/topics/python
     image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png
-  - name: Haskell
-    web_url: https://github.com/topics/haskell
-    image_url: https://raw.githubusercontent.com/github/explore/a99873de88db54b274184fed1eebdb01da4dd92b/topics/haskell/haskell.png
+  - name: Elixir
+    web_url: https://github.com/topics/elixir
+    image_url: https://raw.githubusercontent.com/github/explore/d106aa3f6fa091ab80ab5c8cf0d931baff3caaea/topics/elixir/elixir.png
 
